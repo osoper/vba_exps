@@ -1,1 +1,2 @@
-A macro that pulls part usage data from a SQL server, and another macro that generates a BOM using said data. Filters for the BOM are selected using the form.
+A macro that pulls part usage data from a SQL server, and another macro that generates a BOM using said data.
+Filters for the BOM are selected using the form.
